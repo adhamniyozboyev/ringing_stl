@@ -17,7 +17,7 @@ void main() {
             ),
             Text(
               'CODESCHOOL',
-              style: TextStyle(color: Colors.black, fontSize: 50),
+              style: TextStyle(color: Colors.black, fontSize: 50.0),
             ),
             Padding(
               padding: const EdgeInsets.only(top: 60, bottom: 39),
